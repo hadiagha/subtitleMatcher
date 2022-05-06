@@ -1,2 +1,4 @@
 # subtitleMatcher
-This is a project written on python to match movie subtitles' sentences on different language. My aim to write this code is to be able to get English equivalence of dialogues of movies that I've watched in Persian subtitle.
+This is a project written in python to match movie subtitles' dialogues in different languages. My aim to write this code is to be able to get English equivalence of dialogues of movies that I've watched with Persian subtitles.
+
+I prefer to read books instead of movies or series but sometimes I can't help myself from watching Movies. I usually watch movies with Persian subtitles and if I love the movie much, I would watch it with English subtitles again. In this way, some dialogues in movies are fascinated enough to engage me to find their English versions to be memorized. In order to do that, I wrote an algorithm to match English subtitles to their Persian (or other languages) equivalences based on the time slots.
